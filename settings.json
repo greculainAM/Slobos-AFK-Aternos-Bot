@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GrecuSMP.aternos.me",
+    "ip": "GrecuSMP.aternos.me:29047",
     "port": 29047,
     "version": "1.21.11",
     "try-creative": false
